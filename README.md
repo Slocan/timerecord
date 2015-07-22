@@ -9,3 +9,10 @@ To install:
 - Start timerecord.exe
 - Start Dirt Rally
 - The first line should give you your personal link with your stage times as you go
+
+Requirements:
+Python 3 (tested with 3.4)
+PyYAML==3.11
+
+Credits to Billiam for original code:
+https://github.com/Billiam/pygauge
