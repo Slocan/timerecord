@@ -1,0 +1,5 @@
+speed_units: mph # or kph
+arduino_port: COM5
+telemetry_server:
+    host: 127.0.0.1
+    port: 20777
